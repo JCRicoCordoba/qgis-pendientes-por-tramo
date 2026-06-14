@@ -1,4 +1,4 @@
-# Pendientes por tramo — Geoproceso QGIS
+# Cálculo de pendientes por tramo — Geoproceso QGIS
 
 **Calcula longitud, diferencia de cota y pendiente (%) para cada tramo de una red de líneas, muestreando uno o varios rásters.**
 
